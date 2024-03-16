@@ -12,7 +12,7 @@ This is a SQL query generator that utilizes the Google Gemini Pro API along with
 
 Before running the SQL query generator, make sure you have the following prerequisites installed:
 
-- Python 3.x
+- Python 3.10
 - Google Gemini Pro API credentials
 - Streamlit
 
